@@ -1,0 +1,139 @@
+Process rank: -1, device: cuda, n_gpu: 2, distributed training: False, 16-bits training: False
+
+
+
+
+***** Eval results epoch 0 global_step 448 *****
+ acc: 0.7895 - recall: 0.6530 - f1: 0.7148 - loss: 0.0735 
+
+
+
+
+
+
+***** Eval results epoch 1 global_step 896 *****
+ acc: 0.7943 - recall: 0.7496 - f1: 0.7713 - loss: 0.0651 
+
+
+
+
+***** Eval results epoch 1 global_step 1344 *****
+ acc: 0.8196 - recall: 0.7666 - f1: 0.7922 - loss: 0.0566 
+
+
+
+
+
+
+***** Eval results epoch 2 global_step 1792 *****
+ acc: 0.8405 - recall: 0.7913 - f1: 0.8152 - loss: 0.0516 
+
+
+
+
+***** Eval results epoch 2 global_step 2240 *****
+ acc: 0.8410 - recall: 0.8259 - f1: 0.8334 - loss: 0.0496 
+
+
+
+
+
+
+***** Eval results epoch 3 global_step 2688 *****
+ acc: 0.8482 - recall: 0.8521 - f1: 0.8501 - loss: 0.0493 
+
+
+
+
+***** Eval results epoch 3 global_step 3136 *****
+ acc: 0.8676 - recall: 0.8521 - f1: 0.8598 - loss: 0.0452 
+
+
+
+
+
+
+***** Eval results epoch 4 global_step 3584 *****
+ acc: 0.8685 - recall: 0.8637 - f1: 0.8661 - loss: 0.0445 
+
+
+
+
+***** Eval results epoch 4 global_step 4032 *****
+ acc: 0.8761 - recall: 0.8663 - f1: 0.8712 - loss: 0.0444 
+
+
+
+
+
+
+***** Eval results epoch 5 global_step 4480 *****
+ acc: 0.8917 - recall: 0.8673 - f1: 0.8793 - loss: 0.0416 
+
+
+
+
+***** Eval results epoch 5 global_step 4928 *****
+ acc: 0.8944 - recall: 0.8678 - f1: 0.8809 - loss: 0.0436 
+
+
+
+
+
+
+***** Eval results epoch 6 global_step 5376 *****
+ acc: 0.8961 - recall: 0.8748 - f1: 0.8853 - loss: 0.0440 
+
+
+
+
+***** Eval results epoch 6 global_step 5824 *****
+ acc: 0.9056 - recall: 0.8869 - f1: 0.8961 - loss: 0.0432 
+
+
+
+
+
+
+***** Eval results epoch 7 global_step 6272 *****
+ acc: 0.8975 - recall: 0.8864 - f1: 0.8919 - loss: 0.0473 
+
+
+
+
+***** Eval results epoch 7 global_step 6720 *****
+ acc: 0.9054 - recall: 0.8831 - f1: 0.8941 - loss: 0.0489 
+
+
+
+
+
+
+***** Eval results epoch 8 global_step 7168 *****
+ acc: 0.9035 - recall: 0.8886 - f1: 0.8960 - loss: 0.0479 
+
+
+
+
+***** Eval results epoch 8 global_step 7616 *****
+ acc: 0.9069 - recall: 0.8891 - f1: 0.8979 - loss: 0.0498 
+
+
+
+
+
+
+***** Eval results epoch 9 global_step 8064 *****
+ acc: 0.9056 - recall: 0.8869 - f1: 0.8961 - loss: 0.0510 
+
+
+
+
+***** Eval results epoch 9 global_step 8512 *****
+ acc: 0.9061 - recall: 0.8857 - f1: 0.8958 - loss: 0.0528 
+
+
+
+
+***** Eval results  *****
+ acc: 0.9093 - recall: 0.8889 - f1: 0.8990 - loss: 0.0525 
