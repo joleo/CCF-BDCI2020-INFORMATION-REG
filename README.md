@@ -8,3 +8,14 @@
 （2）商业秘密：制造方法、工艺流程、产品名称、专利名称等。
 
 出题单位：明略科技
+
+文件目录说明：
+
+- 在`data/user_data/cluener` 文件夹中存放了 `train.json ` 和 `dev.json` 这是符合比赛方规定的外部数据。
+- 在`data/user_data/language_model`  中存放了我们的预训练模型
+- 在`data/raw_data` 路径下存放了该赛道提供的比赛数据，包括`train/data`   `train/label` `test` 
+- `src`目录是源码
+
+成绩说明
+- 初赛B榜  rank2
+- 决赛     rank2
